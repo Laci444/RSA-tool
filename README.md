@@ -1,5 +1,4 @@
 # RSA Tool 🔐
-=======
 
 A simple command-line application written in Rust that performs RSA key generation, encryption/decryption, and digital signing/verification using the `rug` and `sha2` crates.
 
